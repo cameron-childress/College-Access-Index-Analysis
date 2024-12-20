@@ -1,6 +1,6 @@
 # College Access Index Analysis
 
-This repository contains both Stata and R scripts used to analyze Pell share, institutional endowment data, and other metrics for selective institutions.
+This repository contains both Stata and R scripts used to analyze Pell share, institutional endowment data, and other metrics at selective institutions.
 
 ## Files
 - **analysis_code_stata.do**: Stata script for the analysis workflow.
